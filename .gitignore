@@ -1,0 +1,7 @@
+/mem
+/__pycache__
+*~
+*.swp
+*.pkl
+*.json
+*.s3bd
