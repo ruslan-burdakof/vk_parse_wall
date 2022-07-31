@@ -1,4 +1,4 @@
-# vk_parse [![PyPI](https://img.shields.io/pypi/v/vk_api.svg)](https://pypi.org/project/vk_api/) ![Python 3.x](https://img.shields.io/pypi/pyversions/vk_api.svg)![vk_api]()
+# vk_parse [![PyPI](https://img.shields.io/pypi/v/vk_api.svg)](https://pypi.org/project/vk_api/) ![Python 3.x](https://img.shields.io/pypi/pyversions/vk_api.svg)
 **vk_parse_wall** – Python модуль для парсинга и очистки стены в ВКонтакте (vk.com API wrapper)
 
 Сохранение всех постов c колличеством лайков не менее 5ти, в папке *mem/* и базе данных SQLite *mem.s3db*
